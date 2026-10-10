@@ -1,4 +1,6 @@
-package com.techlab.articulo.model;
+package src.com.techlab.articulo.model;
+
+import  src.com.techlab.articulo.model.Categoria;
 
 public class ArticuloAlimenticio extends Articulo {
     private int diasParaVencimiento;

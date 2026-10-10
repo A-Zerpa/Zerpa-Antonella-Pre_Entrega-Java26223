@@ -1,4 +1,4 @@
-package com.techlab.articulo.model;
+package src.com.techlab.articulo.model;
 
 public class Categoria {
     private int codigo;

@@ -1,4 +1,6 @@
-package com.techlab.articulo.model;
+package src.com.techlab.articulo.model;
+
+
 
 public abstract class Articulo {
     private int codigo;
